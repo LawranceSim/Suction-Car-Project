@@ -27,14 +27,8 @@ Yes, it failed the qualification test. Yes, we fixed it within a day after the c
 | File/Folder | Description |
 |-------------|-------------|
 | `suction_car.ino` | Full Arduino code |
-| `report/MECHATRONIC_REPORT.pdf` | Final project report |
 | `images/` | (Optional) Photos and circuit diagram |
 | `README.md` | Project overview |
-
----
-
-## 📽️ Demo Video  
-*(Optional)* [Add YouTube or Drive link here]
 
 ---
 
