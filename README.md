@@ -16,9 +16,9 @@ Yes, it failed the qualification test. Yes, we fixed it within a day after the c
 ---
 
 ## 📷 Demo Photos
-- ![Demo Photo](images/demo_photo.jpg)
-- ![Circuit_Diagram](Circuit_Diagram.jpg)
-- ![Circuit_Schematic](Circuit_Schematic.pdf)
+- ![Demo Photo](images/Demo_Pic.jpg)
+- ![Circuit_Diagram](images/Circuit_Diagram.jpg)
+- ![Circuit_Schematic](docs/Circuit_Schematic.pdf)
 ---
 
 ## 📁 Included Files
