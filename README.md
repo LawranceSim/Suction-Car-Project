@@ -40,6 +40,11 @@ Yes, it failed the qualification test. Yes, we fixed it within a day after the c
 
 ---
 
+## 🧠 Arduino Code
+Full source code available in [`code/SuctionCar.ino`](code/SuctionCar.ino)
+
+---
+
 ## 👨‍💻 Developed by
 **Lawrance Sim**  
 Mechanical Engineering @ Universiti Teknologi Malaysia  
